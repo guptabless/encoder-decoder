@@ -1,5 +1,5 @@
 # encoder-decoder
-
+This python script will help you to encode and decode the URL.
 
 ## Requirment:
 
